@@ -5,3 +5,10 @@ body{
 .button-on{
     background-color: gray;
 }
+
+h1{
+    color: white;
+}
+a{
+    color: black;
+}
